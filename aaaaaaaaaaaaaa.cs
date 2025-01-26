@@ -1,1 +1,1 @@
-class A { }
+class A { //啊啊啊啊啊啊}
